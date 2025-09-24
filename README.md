@@ -4,6 +4,8 @@ A **content-based movie recommender system** built using Python, Pandas, scikit-
 The system recommends movies similar to a selected movie based on their descriptions, genres, keywords, cast, and crew.  
 Movie posters are fetched dynamically using the **TMDB API**.  
 
+<img width="1462" height="838" alt="Screenshot 2025-09-23 at 7 55 12 PM" src="https://github.com/user-attachments/assets/fd89cc31-744b-4198-85ea-467738894b30" />
+
 ---
 
 ## Features
